@@ -9,6 +9,7 @@ class CreateMovies < ActiveRecord::Migration
       t.string :imdb_id
       t.references :movie_query
 
+
       t.timestamps null: false
     end
   end
