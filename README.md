@@ -10,3 +10,4 @@
 
 You can also use animated GIFs for awesome!
 ![ScreenShot](/cel.gif)
+![alt tag](http://media.giphy.com/media/YnOQrnkKjCZdC/giphy.gif)
