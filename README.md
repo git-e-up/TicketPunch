@@ -1,6 +1,6 @@
 ## Insert Logo Image here!
 
-![ScreenShot](/search.png)
+![ScreenShot](app/assets/images/search.png)
 # TicketPunch
 - The fun friendly way to organize your movie watch list!
 - Search for a movie and add it to your watch list!
