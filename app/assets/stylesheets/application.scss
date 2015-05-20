@@ -42,7 +42,11 @@ body {
     width: 100%;
     background-color: $asset-mistyforest;
   }
-  h1{
+  h6{
     margin: 0px;
+    display: inline-block;
+  }
+  .logout{
+    display: inline-block;
   }
 }
