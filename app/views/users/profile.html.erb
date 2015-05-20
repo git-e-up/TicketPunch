@@ -3,6 +3,8 @@
 <h1>Welcome <%= @user.username %></h1>
 
 </header>
+<%= image_tag "pop2.png" %>
+
 
 <%= form_tag('/sessions', method: 'delete') do %>
   <%= submit_tag "Log-Out", class: "btn btn-block btn-lg btn-inverse" %>
