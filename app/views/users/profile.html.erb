@@ -1,14 +1,18 @@
 <body id="profile">
 <header>
-<h1>Welcome <%= @user.username %></h1>
-
+<div class="">
+  <h6>Welcome <%= @user.username %></h6>
+    <div class="logout">
+    <%= form_tag('/sessions', method: 'delete') do %>
+      <%= submit_tag "Log-Out", class: "btn btn-inverse" %>
+    <% end %>
+  </div>
+</div>
 </header>
 <%= image_tag "pop2.png" %>
 
 
-<%= form_tag('/sessions', method: 'delete') do %>
-  <%= submit_tag "Log-Out", class: "btn btn-block btn-lg btn-inverse" %>
-<% end %>
+
 
 <input id='movie_search' class="form-control" type="text" placeholder='...movie title'>
 
