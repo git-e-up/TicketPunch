@@ -13,7 +13,9 @@ Your favorite movie search just got better! Snackpack is designed to cater your 
 
 
 
-## Watch clips from Home Alone!
+## Watch clips from Home Alone!*
 
 
 ![alt tag](http://media.giphy.com/media/YnOQrnkKjCZdC/giphy.gif)
+
+*if you consider a gif an actual clip of the movie
