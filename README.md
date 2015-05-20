@@ -10,8 +10,8 @@ Your favorite movie search just got better! Snackpack is designed to cater your 
 - Limited functionality
 
 ![ScreenShot](app/assets/images/search.png)
-
-
+This is also a thing
+![ScreenShot](app/assets/images/search2.png)
 
 ## Watch clips from Home Alone!*
 
