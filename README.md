@@ -1,4 +1,10 @@
-## Insert Logo Image here!
+## Snackpack!
+Your favorite movie search just got better! Snackpack is designed to cater your favorite movies right to your media viewer at the click of a button.
+
+## Updates include:
+- Enhanced search capability
+- Movie poster rendering
+- Limited functionality
 
 ![ScreenShot](app/assets/images/search.png)
 # TicketPunch
@@ -6,7 +12,7 @@
 - Search for a movie and add it to your watch list!
 - Remove movies from your watch list when you're finished!
 
-## Usage Information / Notes for viewer / etc
+## Watch clips from Home Alone
 
 
 ![alt tag](http://media.giphy.com/media/YnOQrnkKjCZdC/giphy.gif)
