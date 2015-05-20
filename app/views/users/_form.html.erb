@@ -1,12 +1,23 @@
+<div class="container-fluid">
+  <div class="row">
+
+  <div class="logIn">
+
+
 <%= form_for @user do |f| %>
   <%= f.label :username %>:
-  <%= f.text_field :username %>
+  <%= f.text_field :username, class: 'form-control' %>
 
   <%= f.label :password %>:
-  <%= f.password_field :password %>
+  <%= f.password_field :password, class: 'form-control' %>
 
   <%= f.label :email %>:
-  <%= f.text_field :email %>
+  <%= f.text_field :email, class: 'form-control' %>
 
-  <%= f.submit %>
+  <%= f.submit class: "btn btn-block btn-lg btn-inverse" %>
 <% end %>
+
+
+  </div>
+</div>
+</div>

@@ -32,5 +32,17 @@ body {
   background: lightblue;
   background-image: url("http://www.dqchannels.com/wp-content/uploads/2014/12/How-Collaboration-Creates-Growth-For-Your-SME.jpg");
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
+}
+.logIn{
+  width: 400px;
+}
+#profile{
+  header{
+    width: 100%;
+    background-color: $asset-mistyforest;
+  }
+  h1{
+    margin: 0px;
+  }
 }
